@@ -1,0 +1,23 @@
+" Special
+let wallpaper  = "/home/bocho/Pictures/wallpaper-1.png"
+let background = "#070808"
+let foreground = "#bfc3c6"
+let cursor     = "#bfc3c6"
+
+" Colors
+let color0  = "#070808"
+let color1  = "#464E58"
+let color2  = "#4D5966"
+let color3  = "#5D6774"
+let color4  = "#A26D60"
+let color5  = "#6D7985"
+let color6  = "#79858F"
+let color7  = "#bfc3c6"
+let color8  = "#85888a"
+let color9  = "#464E58"
+let color10 = "#4D5966"
+let color11 = "#5D6774"
+let color12 = "#A26D60"
+let color13 = "#6D7985"
+let color14 = "#79858F"
+let color15 = "#bfc3c6"

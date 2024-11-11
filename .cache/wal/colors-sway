@@ -1,0 +1,21 @@
+set $wallpaper /home/bocho/Pictures/wallpaper-1.png
+
+set $background #070808
+set $foreground #bfc3c6
+
+set $color0 #070808
+set $color1 #464E58
+set $color2 #4D5966
+set $color3 #5D6774
+set $color4 #A26D60
+set $color5 #6D7985
+set $color6 #79858F
+set $color7 #bfc3c6
+set $color8 #85888a
+set $color9 #464E58
+set $color10 #4D5966
+set $color11 #5D6774
+set $color12 #A26D60
+set $color13 #6D7985
+set $color14 #79858F
+set $color15 #bfc3c6
